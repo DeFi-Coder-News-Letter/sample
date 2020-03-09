@@ -13,3 +13,6 @@
 gradle.properties
 local.properties
 .gradletasknamecache
+
+# Ignore Gradle build output directory
+build
